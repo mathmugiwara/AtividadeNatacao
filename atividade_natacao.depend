@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631761733 source:c:\users\mathm\onedrive\Área de trabalho\atividade_natacao\main.cpp
+	<iostream>
+	<locale.h>
+
